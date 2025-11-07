@@ -1,0 +1,8 @@
+# Packages required by files in src/
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+fastf1
+tqdm
