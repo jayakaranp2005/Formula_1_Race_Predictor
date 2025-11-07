@@ -33,6 +33,7 @@ pip install -r requirements.txt
 
 ## Project structure
 
+```text
 Formula_1_Race_Predictor/
 │
 ├── data/
@@ -54,6 +55,7 @@ Formula_1_Race_Predictor/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 Create directories if missing:
 ```bash
@@ -144,7 +146,7 @@ When you run the final predictor you may see output formatted like:
 
 ## Notes
 
-- Keep large raw data and sensitive files out of git (use `.gitignore`).  
-- Pin package versions in `requirements.txt` for reproducibility.  
-- Add a LICENSE file to declare project license.  
+- Handle large raw data and sensitive files properly.  
 - Check each script for CLI arguments or config options at the top of the file and adapt file paths accordingly.
+
+  ## Thank me later :)
