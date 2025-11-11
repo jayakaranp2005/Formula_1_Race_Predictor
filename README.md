@@ -50,6 +50,7 @@ Formula_1_Race_Predictor/
 │   ├── final_model_trainer.py
 │   ├── final_evaluator.py
 │   ├── upcoming_data_fetcher.py
+    ├── upcomind_input_helper.py
 │   └── FINAL_PREDICTOR.py
 │
 ├── requirements.txt
